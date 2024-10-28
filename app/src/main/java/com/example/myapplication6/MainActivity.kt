@@ -1,6 +1,7 @@
 package com.example.myapplication6
 
 // 내가 해냄
+// 나도 해낼 거임
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
