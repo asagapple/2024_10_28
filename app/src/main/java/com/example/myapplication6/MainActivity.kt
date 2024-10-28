@@ -2,6 +2,7 @@ package com.example.myapplication6
 
 // 내가 해냄
 // 야호
+// 자자
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
